@@ -75,7 +75,7 @@ transition: 1s ease-in-out;
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/animated-login-form.git
+git clone https://github.com/Abdessamad-LABS/animated-login-form.git
 ```
 
 2. Open `index.html` in your browser.
@@ -113,7 +113,7 @@ in the Software without restriction...
 
 **Abdessamad El Boudrari**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Abdessamad-LABS
 
 ---
 
@@ -152,4 +152,5 @@ git push -u origin main
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+
 
