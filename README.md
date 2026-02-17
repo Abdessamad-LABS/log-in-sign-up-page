@@ -95,17 +95,7 @@ No installation required ✅
 
 ---
 
-## 📸 Preview
 
-(Add a screenshot here after uploading the project)
-
-Example:
-
-```markdown
-![Preview](preview.png)
-```
-
----
 
 ## 📜 License
 
@@ -162,3 +152,4 @@ git push -u origin main
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+
